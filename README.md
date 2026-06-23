@@ -24,6 +24,7 @@ Dalam dunia data mining, terdapat beberapa pendekatan ensemble yang populer, sep
 
 Konsepnya mirip seperti meminta pendapat dari beberapa orang sebelum mengambil keputusan. Setiap model akan memberikan prediksi, kemudian seluruh hasil tersebut digabungkan untuk menghasilkan prediksi akhir yang lebih akurat dan stabil.
 
+
 ---
 
 ## Mengapa Ensemble Lebih Baik?
@@ -174,7 +175,7 @@ Setiap model baru akan fokus memperbaiki kesalahan yang dibuat oleh model sebelu
 
 ---
 
-## Kode Python Bagian 1 dan 2
+## Kode Python Bagging dan AdaBoost
 
 Pada bagian ini dilakukan:
 
@@ -189,14 +190,14 @@ Tahapan ini menjadi dasar agar model dapat belajar dari data yang tersedia sebel
 <img width="1303" height="654" alt="image" src="https://github.com/user-attachments/assets/7f3e9a76-ac1d-4b56-94ed-64b6f451a538" />
 <img width="1211" height="707" alt="image" src="https://github.com/user-attachments/assets/b213220b-964d-4c4f-b6b4-04ca3eabb6a6" />
 <img width="1064" height="687" alt="image" src="https://github.com/user-attachments/assets/76c4debd-8a5a-40d0-8c03-888fbd9f4aa5" />
-
-
-
-
+<img width="1143" height="750" alt="image" src="https://github.com/user-attachments/assets/d07520e2-6e65-4c7e-a2d8-e02ae97ed6ad" />
+<img width="944" height="729" alt="image" src="https://github.com/user-attachments/assets/bb6b5cf4-7078-44c7-bab8-76a51f83239b" />
+<img width="1033" height="561" alt="image" src="https://github.com/user-attachments/assets/f6dca5db-7f99-419a-84cc-2eed1b0d9a57" />
+<img width="904" height="679" alt="image" src="https://github.com/user-attachments/assets/32d38728-dccf-47ca-8dab-cac723d5454b" />
 
 ---
 
-## Kode Python Bagian 3 dan 4
+## Kode Python stacking classifier dan CV-comparison
 
 Pada bagian ini dilakukan:
 
@@ -205,6 +206,15 @@ Pada bagian ini dilakukan:
 - Analisis hasil klasifikasi.
 
 Melalui evaluasi tersebut dapat diketahui apakah model ensemble memberikan hasil yang lebih baik dibandingkan model tunggal.
+
+<img width="883" height="749" alt="image" src="https://github.com/user-attachments/assets/d3233932-8dbe-403b-afef-cbb06a4c50b1" />
+<img width="993" height="764" alt="image" src="https://github.com/user-attachments/assets/185677a0-ebc0-4715-89f3-166e43404389" />
+<img width="918" height="760" alt="image" src="https://github.com/user-attachments/assets/c863f90b-2165-45dd-a749-7857cce458ad" />
+<img width="907" height="572" alt="image" src="https://github.com/user-attachments/assets/6776154e-6a52-4cf1-9bfa-07d0156d401b" />
+<img width="1101" height="742" alt="image" src="https://github.com/user-attachments/assets/9f8baed0-17a5-4c0e-9259-21c04dd80031" />
+<img width="896" height="760" alt="image" src="https://github.com/user-attachments/assets/b243eac0-e220-4912-bec6-9ac929e5ec5d" />
+<img width="810" height="719" alt="image" src="https://github.com/user-attachments/assets/2d8c6770-e010-4c31-87cc-001175a045bb" />
+<img width="945" height="375" alt="image" src="https://github.com/user-attachments/assets/506bbcc5-7dca-44fd-bb82-c003eff45dce" />
 
 ---
 
