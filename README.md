@@ -247,3 +247,20 @@ Semoga materi ini dapat menambah wawasan mengenai salah satu teknik klasifikasi 
 4. Dr. Arya Adhyaksa, W. *Modul DM06: Klasifikasi - Ensemble Methods*.
 
 ---
+
+<img width="1919" height="1079" alt="Screenshot 2026-06-23 201725" src="https://github.com/user-attachments/assets/c2b2cd43-9027-4bec-a644-3a78701093f8" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-23 201006" src="https://github.com/user-attachments/assets/df6297ac-f05e-4202-8df8-190358e434e2" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-23 201013" src="https://github.com/user-attachments/assets/fdccccce-6c35-437a-aee3-ca7afaec65d3" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-23 201022" src="https://github.com/user-attachments/assets/be597697-01c2-4b79-aae8-018d6750da5e" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-23 201030" src="https://github.com/user-attachments/assets/2c96456d-cf4b-4bfe-aabc-ef0274510aa9" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-23 201035" src="https://github.com/user-attachments/assets/332f9509-dff3-45a0-a8a0-f281288c5c3c" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-23 201042" src="https://github.com/user-attachments/assets/d9ec0078-bb2a-487d-b709-6e828c74514e" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-23 201055" src="https://github.com/user-attachments/assets/639c9d0a-3425-49bd-98e8-96cb3b1737ad" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-23 201101" src="https://github.com/user-attachments/assets/ca7e2c96-fa70-48f9-bec2-91e97958d2ba" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-23 201118" src="https://github.com/user-attachments/assets/c525f789-eef5-450f-a861-747ccb900245" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-23 201128" src="https://github.com/user-attachments/assets/51dc2468-4fc6-4faa-9035-0c6c10f441c6" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-23 201143" src="https://github.com/user-attachments/assets/f53e6e3f-df56-4546-afed-c8da59f9cadf" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-23 201149" src="https://github.com/user-attachments/assets/89123036-9351-4dee-ae4c-f24cbbc368e3" />
+
+--
+
