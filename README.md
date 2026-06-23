@@ -1,4 +1,14 @@
 # Klasifikasi: Ensemble Methods
+---
+## Kelompok 5
+- Della Nanda Saputri      2412011401352
+- Nurhidayat               241011401624
+- Nur Rizka Sasi Kirana    241011401355
+- Teguh Maulana Firmansyah 241011401348
+- Yose Alfredow Panjaitan  241011402036
+---
+Video Persentasi : https://youtu.be/DLV9PxbVSBM?si=zfwv9OX89CNC7vVK
+code dan output  : https://colab.research.google.com/drive/15CFvxLWxHOEQZEys5Sk9E9rR0hUA1IoV?usp=sharing
 
 Pernah dengar pepatah **"dua kepala lebih baik dari satu"**? Ternyata prinsip ini juga berlaku di dunia data mining. Daripada mengandalkan satu model untuk membuat prediksi, mengapa tidak menggabungkan kekuatan beberapa model sekaligus? Inilah ide dasar dari **Ensemble Methods**, salah satu teknik klasifikasi yang terbukti mampu menghasilkan prediksi lebih akurat dan stabil dibandingkan model tunggal.
 
@@ -85,16 +95,12 @@ Ensemble Methods telah banyak diterapkan di berbagai bidang, antara lain:
 
 ### Kesehatan
 Memprediksi penyakit berdasarkan data pasien.
-
 ### Keuangan
 Mendeteksi transaksi fraud atau penipuan.
-
 ### Pendidikan
 Memprediksi tingkat kelulusan mahasiswa.
-
 ### Perbankan
 Menganalisis kelayakan pemberian kredit.
-
 ### E-Commerce
 Mengembangkan sistem rekomendasi produk yang lebih akurat.
 
@@ -180,6 +186,14 @@ Pada bagian ini dilakukan:
 
 Tahapan ini menjadi dasar agar model dapat belajar dari data yang tersedia sebelum digunakan untuk melakukan prediksi.
 
+<img width="1303" height="654" alt="image" src="https://github.com/user-attachments/assets/7f3e9a76-ac1d-4b56-94ed-64b6f451a538" />
+<img width="1211" height="707" alt="image" src="https://github.com/user-attachments/assets/b213220b-964d-4c4f-b6b4-04ca3eabb6a6" />
+<img width="1064" height="687" alt="image" src="https://github.com/user-attachments/assets/76c4debd-8a5a-40d0-8c03-888fbd9f4aa5" />
+
+
+
+
+
 ---
 
 ## Kode Python Bagian 3 dan 4
@@ -222,11 +236,3 @@ Semoga materi ini dapat menambah wawasan mengenai salah satu teknik klasifikasi 
 4. Dr. Arya Adhyaksa, W. *Modul DM06: Klasifikasi - Ensemble Methods*.
 
 ---
-
-## Kelompok 5
-
-- Della Nanda Saputri
-- Nurhidayat
-- Nur Rizka Sasi Kirana
-- Teguh Maulana Firmansyah
-- Yose Alfredow Panjaitan
