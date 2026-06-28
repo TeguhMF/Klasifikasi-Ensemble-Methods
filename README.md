@@ -8,7 +8,6 @@
 - Yose Alfredow Panjaitan  241011402036
 ---
 Video Persentasi : https://youtu.be/DLV9PxbVSBM?si=zfwv9OX89CNC7vVK
-
 code dan output  : https://colab.research.google.com/drive/15CFvxLWxHOEQZEys5Sk9E9rR0hUA1IoV?usp=sharing
 
 Pernah dengar pepatah **"dua kepala lebih baik dari satu"**? Ternyata prinsip ini juga berlaku di dunia data mining. Daripada mengandalkan satu model untuk membuat prediksi, mengapa tidak menggabungkan kekuatan beberapa model sekaligus? Inilah ide dasar dari **Ensemble Methods**, salah satu teknik klasifikasi yang terbukti mampu menghasilkan prediksi lebih akurat dan stabil dibandingkan model tunggal.
